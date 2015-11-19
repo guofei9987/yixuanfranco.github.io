@@ -56,7 +56,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #059a00;
+  color: #53b45e;
   text-decoration: none;
 }
 a strong {

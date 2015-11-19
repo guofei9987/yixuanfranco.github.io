@@ -60,7 +60,7 @@ a {
   text-decoration: none;
 }
 a strong {
-  color: inherit;
+  color: #059a00;
 }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -72,7 +72,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #25BFBF;
+  color: #059a00;
   letter-spacing: -.025rem;
 }
 
@@ -99,7 +99,7 @@ p {
 }
 
 strong {
-  color: #1BFFFF;
+  color: #059a00;
 }
 
 

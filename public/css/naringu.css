@@ -60,7 +60,7 @@ a {
   text-decoration: none;
 }
 a strong {
-  color: #2ecc29;
+  color: #53b45e;
 }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -99,7 +99,7 @@ p {
 }
 
 strong {
-  color: #2ecc29;
+  color: #53b45e;
 }
 
 

@@ -37,7 +37,7 @@ title: About
 ---
 ```
 
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` 
+**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page`
 
 
 ### Reverse layout
@@ -69,7 +69,7 @@ Just edit variable `disqus` in `_config.yml` to your disqus link.
 
 Naringu come with two branches :.
 
-- `master` for active development. 
+- `master` for active development.
 - `gh-pages` for preview of Naringu
 
 ### Author

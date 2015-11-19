@@ -1,10 +1,10 @@
 ---
-title: 我是谁.
+title: Yixuan
 author: Yixuan Li
 layout: page
 ---
 
-  <img width="200" height="200" alt="A photo of Yixuan" src="{{ site.baseurl }}images/yixuan.jpg">
+  <img width="300" height="400" alt="A photo of Yixuan" src="{{ site.baseurl }}images/yixuan.jpg">
 
 Hola, 我是 __Yixuan__. 我的人生理想啊...远目, 那就是醉生梦死, 不劳而获什么的. 当然有理想是好的, 徐徐图之是必须的. 嘿嘿. 当前主要活动就是窝在家做一只迷途小书虫. 副业就是创创业、编编程什么的.
 
@@ -19,4 +19,4 @@ Hola, 我是 __Yixuan__. 我的人生理想啊...远目, 那就是醉生梦死, 
 
 ## 嗷!
 
-如果想 __跟俺聊聊__, [欢迎来信](mailto:liyixuan5402@gmail.com).
+如果想跟俺聊聊, __[欢迎来信](mailto:liyixuan5402@gmail.com)__.

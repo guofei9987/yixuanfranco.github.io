@@ -9,26 +9,26 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Naringu
-tagline:             'A Hacker like jekyll theme'
-description:         'oonlab is crafted with <3 by ariestiyansyah.'
-url:                 http://naringu.oonlab.com
+title:               Yixuan
+tagline:             'Mindhacker'
+description:         '尘世间一只迷途小书虫.'
+url:                 http://yixuan.li
 baseurl:             /
 paginate:            7
 
 # About/contact
 author:
-  name:              Rizky Ariestiyansyah
-  url:               https://twitter.com/ariestiyansyah
-  email:             ariestiyansyah.rizky@gmail.com
+  name:              Yixuan Li
+  url:               https://www.macundexiatian.com
+  email:             liyixuan5402@gmail.com
 
 # Custom vars
 version:             2.0
 
 # Social Media
-github:				http://github.com/ariestiyansyah
-twitter:			http://twitter.com/ariestiyansyah
-disqus:             testnaringu
+github:				https://github.com/YixuanFranco
+twitter:			https://twitter.com/Yixuan5402
+disqus:             @yixuan_li
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:

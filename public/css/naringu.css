@@ -60,7 +60,7 @@ a {
   text-decoration: none;
 }
 a strong {
-  color: #31813a;
+  color: #53b45e;
 }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -72,7 +72,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #31813a;
+  color: #53b45e;
   letter-spacing: -.025rem;
 }
 
@@ -99,7 +99,7 @@ p {
 }
 
 strong {
-  color: #31813a;
+  color: #53b45e;
 }
 
 
@@ -532,7 +532,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #25BFBF;
+  color: #53b45e;
 }
 .page-title,
 .post-title {

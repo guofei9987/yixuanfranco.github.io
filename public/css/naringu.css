@@ -33,7 +33,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  border: 1px solid #059a00;
+  border: 1px solid #53b45e;
 }
 
 html {
@@ -121,19 +121,19 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid #059a00;
-  border-bottom: 1px solid #059a00;
+  border-top: 1px solid #53b45e;
+  border-bottom: 1px solid #53b45e;
 }
 
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: #059a00;
+  color: #53b45e;
   text-transform: uppercase;
 }
 abbr[title] {
   cursor: help;
-  border-bottom: 1px dotted #059a00;
+  border-bottom: 1px dotted #53b45e;
 }
 
 /*
@@ -164,7 +164,7 @@ pre {
   word-break: break-all;
   word-wrap: break-word;
   background-color: #000;
-  border: 1px solid #059a00;
+  border: 1px solid #53b45e;
 }
 pre code {
   padding: 0;
@@ -177,7 +177,7 @@ pre code {
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
-  background-color: #059a00;
+  background-color: #53b45e;
 }
 .highlight pre {
   margin-bottom: 0;
@@ -237,13 +237,13 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid #059a00;
+  border: 1px solid #53b45e;
   border-collapse: collapse;
 }
 td,
 th {
   padding: .25rem .5rem;
-  border: 1px solid #059a00;
+  border: 1px solid #53b45e;
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
@@ -297,7 +297,7 @@ tbody tr:nth-child(odd) th {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 1px solid #059a00;
+  border-bottom: 1px solid #53b45e;
 }
 .masthead-title {
   margin-top: 0;
@@ -350,7 +350,7 @@ tbody tr:nth-child(odd) th {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  border: 1px solid #059a00;
+  border: 1px solid #53b45e;
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
@@ -364,7 +364,7 @@ tbody tr:nth-child(odd) th {
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: #059a00;
+  color: #53b45e;
 }
 .sidebar-item {
   padding: 1rem;
@@ -387,7 +387,7 @@ a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
   background-color: #191E1E;
-  border-color: #059a00;
+  border-color: #53b45e;
 }
 
 @media (min-width: 48em) {
@@ -413,7 +413,7 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
-  color: #059a00;
+  color: #53b45e;
   background-color: #000;
   border-radius: 4px;
   cursor: pointer;
@@ -434,7 +434,7 @@ a.sidebar-nav-item:focus {
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: #059a00;
+  color: #53b45e;
   background-color: #505050;
 }
 
@@ -513,7 +513,7 @@ a.sidebar-nav-item:focus {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #000;
-  background-color: #059a00;
+  background-color: #53b45e;
 }
 
 /*
@@ -555,8 +555,8 @@ a.sidebar-nav-item:focus {
 .related {
   /*padding-top: 2rem;*/
   /*padding-bottom: 2rem;*/
-  border-top: 1px solid #059a00;
-  /*border-bottom: 1px solid #059a00;*/
+  border-top: 1px solid #53b45e;
+  /*border-bottom: 1px solid #53b45e;*/
 }
 .related-posts {
   padding-left: 0;
@@ -599,7 +599,7 @@ a.sidebar-nav-item:focus {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #059a00;
+  border: 1px solid #53b45e;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -635,17 +635,17 @@ a.pagination-item:hover {
  *
  * Default dark theme of Naringu is here (Will Update)
 
-/* #059a00 */
+/* #53b45e */
 
-.theme-#059a00 .sidebar,
-.theme-#059a00 .sidebar-toggle:active,
-.theme-#059a00 #sidebar-checkbox:checked ~ .sidebar-toggle {
+.theme-#53b45e .sidebar,
+.theme-#53b45e .sidebar-toggle:active,
+.theme-#53b45e #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #000;
 }
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,
 .theme-6dd .related-posts li a:hover {
-  color: #059a00;
+  color: #53b45e;
 }
 
 
@@ -682,5 +682,5 @@ a.pagination-item:hover {
 .footer {
   padding-top: 10px;
   padding-bottom: 10px;
-  border-top: 1px solid #059a00;
+  border-top: 1px solid #53b45e;
 }

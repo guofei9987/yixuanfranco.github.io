@@ -43,3 +43,7 @@ Hola, 我是 __Yixuan__. 我的人生理想啊... 远目, 那就是 __醉生梦�
 ## 嗷!
 
 如果想跟俺聊聊, __[欢迎来信](mailto:liyixuan5402@gmail.com)__.
+
+
+<a href='http://www.catb.org/hacker-emblem/'>
+<img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>

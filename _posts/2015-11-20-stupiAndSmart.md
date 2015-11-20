@@ -35,8 +35,6 @@ categories:
 
 
 
-<a href='http://www.catb.org/hacker-emblem/'>
-<img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
 
 
   

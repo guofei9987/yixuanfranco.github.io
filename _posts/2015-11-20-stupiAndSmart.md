@@ -1,8 +1,8 @@
- ---
+---
 layout: post
 title: 愚蠢和叨叨总是成正比的
 categories: 
-Yixuan
+- Yixuan
 ---
 
 

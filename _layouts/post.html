@@ -19,10 +19,10 @@ layout: default
     {% for post in site.related_posts limit:3 %}
       <li>
         <strong>
-			<u><a href="{{ site_url }}{{ post.url }}">
+			<i><a href="{{ site_url }}{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
-		</a></u>
+			</a></i>
         </strong>
       </li>
     {% endfor %}

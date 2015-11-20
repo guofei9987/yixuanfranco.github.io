@@ -10,9 +10,7 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }} <br>
-	<a href='http://www.catb.org/hacker-emblem/'>
-		<img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
-
+  <img width="100" height="100" alt="Glider" src="{{ site.baseurl }}images/glider.png">
 </div>
 
 <div class="related">
@@ -20,12 +18,12 @@ layout: default
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>
-        <h5>
-          <a href="{{ site_url }}{{ post.url }}">
+        <strong>
+			<u><a href="{{ site_url }}{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h5>
+		</a></u>
+        </strong>
       </li>
     {% endfor %}
   </ul>

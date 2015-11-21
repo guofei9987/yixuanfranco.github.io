@@ -27,7 +27,7 @@ categories:
 
 嗯哼. 晚安.
 
-> 增补.0 与Nov.21, 2015. 22:25  
+> 增补.0 于Nov.21, 2015. 22:25  
 > 心情 Super, 明天有 『蜀山战纪』第三季嗷嗷! 还有 90 mins!  
 > Downloading Kali! 要做一个也懂雪月风花的 Hacker 呐!  
 

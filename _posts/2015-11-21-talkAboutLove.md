@@ -28,8 +28,9 @@ categories:
 所以啊, 通透通透, 何为通透? 站在所有的情感之上, 加之强大的掌控能力, 清晰的视角. 动则撼动九天, 静则落入微尘.直至肉眼凡胎再不可见.
 
 > 增补.0 于 Nov.21, 2015. 22:25  
-> 增补.1 于 Nov.22, 2015. 11:00
+> 增补.1 于 Nov.22, 2015. 11:00  
 > 心情 Super, 明天有 『蜀山战纪』第三季嗷嗷! 还有 90 mins!  
 > Downloading Kali! 要做一个也懂雪月风花的 Hacker 呐!  
 
+<embed autostart="false" hidden="false" loop=-1 src="http://1234mc.tingge123.com/123/2015/09/%E8%9C%80%E5%B1%B1%E6%88%98%E7%BA%AA%E7%89%87%E5%B0%BE%E6%9B%B2%20%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E4%B9%B1%E4%B8%96%E4%BF%B1%E7%81%AD.mp3"></embed>
   

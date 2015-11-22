@@ -32,5 +32,5 @@ categories:
 > 心情 Super, 明天有 『蜀山战纪』第三季嗷嗷! 还有 90 mins!  
 > Downloading Kali! 要做一个也懂雪月风花的 Hacker 呐!  
 
-<embed autostart="false" hidden="false" loop=-1 src="http://1234mc.tingge123.com/123/2015/09/%E8%9C%80%E5%B1%B1%E6%88%98%E7%BA%AA%E7%89%87%E5%B0%BE%E6%9B%B2%20%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E4%B9%B1%E4%B8%96%E4%BF%B1%E7%81%AD.mp3"></embed>
+<embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/%E4%B9%B1%E4%B8%96%E4%BF%B1%E7%81%AD.mp3"></embed>
   

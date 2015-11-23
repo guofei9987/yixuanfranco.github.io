@@ -12,10 +12,10 @@ categories:
 
 梗已经接到, 于是开始折腾:  
 
-	* [7牛作为图床](https://github.com/OpenMindClub/2.OMOOC.py/issues/70)  
-	* 面向中国用户, 使用 GitHub 作为图床时而会炸. 所以建议我们使用七牛.  
-	* [大妈的教程](http://blog.zhgdg.org/2013-08/usage7niu/)  
-	* 以上是我收集到的梗.  
+* [7牛作为图床](https://github.com/OpenMindClub/2.OMOOC.py/issues/70)  
+* 面向中国用户, 使用 GitHub 作为图床时而会炸. 所以建议我们使用七牛.  
+* [大妈的教程](http://blog.zhgdg.org/2013-08/usage7niu/)  
+* 以上是我收集到的梗.  
 
 ## 分析
 1. 先把七牛的命令什么的搞定.
@@ -87,23 +87,23 @@ categories:
 
 所以, 这个文件的逻辑已经非常清楚了:  
 
-	* 检测 access key + secret key, 确定你的身份.  
-	* 确定你要上传到的空间.  
-	* 把本地 库的内容 上传到七牛的 空间中.  
+* 检测 access key + secret key, 确定你的身份.  
+* 确定你要上传到的空间.  
+* 把本地 库的内容 上传到七牛的 空间中.  
 
 
 **Checklist**:  
 
-	* 下载了 qrsync.  
-	* 新建+配置了 conf.json.  
-	* 在你本地的文件夹里 随便放一点文件.  
+* 下载了 qrsync.  
+* 新建+配置了 conf.json.  
+* 在你本地的文件夹里 随便放一点文件.  
 
 做完上述所有内容后, 我们就可以开始上传东西了:  
 `./qrsync conf.json`
 运行命令, 即可上传你的文件了!     
 
-	* 要在 qrsync 前加 ./ , 不然可能运行不了.    
-	* 我一开始就没运行成功.  
+* 要在 qrsync 前加 ./ , 不然可能运行不了.    
+* 我一开始就没运行成功.  
 
 ## 到哪里去看我生成的 URL 呢？
 1. 先查看一下自己 **空间** 的设置.
@@ -120,7 +120,7 @@ categories:
 		
 ^_^ 希望你一切都搞定了.   
 
-	* 如果没搞定的话, 可以 发**邮件**至 liyixuan5402@gmail.com 联系我.   
-	* 或者, 加我的 **facebook**: liyixuan5402@hotmail.com  
+* 如果没搞定的话, 可以 发**邮件**至 liyixuan5402@gmail.com 联系我.   
+* 或者, 加我的 **facebook**: liyixuan5402@hotmail.com  
 
 

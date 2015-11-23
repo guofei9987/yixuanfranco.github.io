@@ -30,25 +30,25 @@ categories:
 	* 按照教程说, 把下面的东西 粘贴进去, 改成自己的:
 
 版本一:
-```
-{
-    "access_key": "Please apply your access key here",
-    "secret_key": "Dont send your secret key to anyone",
-    "bucket": "Bucket name on qiniu resource storage",
-    "sync_dir": "Local directory to upload",
-    "async_ops": "fop1;fop2;fopN",
-    "debug_level": 1
-}
-```
+
+{  
+    "access_key": "Please apply your access key here",  
+    "secret_key": "Dont send your secret key to anyone",  
+    "bucket": "Bucket name on qiniu resource storage",  
+    "sync_dir": "Local directory to upload",  
+    "async_ops": "fop1;fop2;fopN",  
+    "debug_level": 1  
+}  
+
 
 [版本2:](http://developer.qiniu.com/docs/v6/tools/qrsync.html)
-```
-{
-    "src":          "/home/your/sync_dir",
-    "dest":         "qiniu:access_key=<AccessKey>&secret_key=<SecretKey>&bucket=<Bucket>&key_prefix=<KeyPrefix>&threshold=<Threshold>",
-    "debug_level":  1
-}
-```
+
+{  
+    "src":          "/home/your/sync_dir",  
+    "dest":          "qiniu:access_key=<AccessKey>&secret_key=<SecretKey>&bucket=<Bucket>&key_prefix=<KeyPrefix>&threshold=<Threshold>",  
+    "debug_level":  1  
+}  
+
 
 
 先说一下我踩到的梗:
@@ -65,17 +65,17 @@ categories:
 
  * acccess_key 和 secret_key, 都是你自己的七牛用户里特有的.
 	* 账号→ 密匙 → 就可以看到这两个 Key, 复制粘贴到文件里就可以了.
-	* **小白提示**: 粘贴的时候不要去掉 " ", 要粘贴到 " "中间. 
+	* **小白提示**: 粘贴的时候不要去掉 " ", 要粘贴到 " "中间.
 
 
- * bucket: 
+ * bucket:
 	* 在七牛左上角, 新建 一个空间.
-	* bucket 就是你的空间名称. 
+	* bucket 就是你的空间名称.
 	* 比如:
 		* 我的空间叫 yixuanfranco
 		* 那么, 我的配置应该是 "bucket":"yixuanfranco"
 
- * sync_dir: 是你的本地文件夹的地址. 
+ * sync_dir: 是你的本地文件夹的地址.
 	* 可以在本地建立一个文件夹, 然后把他的绝对地址粘贴上.
 	* **小白提示**: pwd 可以知道你 文件夹 的绝对地址.
 
@@ -114,10 +114,8 @@ categories:
 		* 比如, 我刚刚说, 在本地的文件夹里, 随便放一些东西.
 		* 我们假设你放了 yixuan.md 好了.
 		* 那么,查看这个文件的方式为: 域名/yixuan.md.
-		
+
 ^_^ 希望你一切都搞定了.   
 
 * 如果没搞定的话, 可以 发**邮件**至 liyixuan5402@gmail.com 联系我.   
 * 或者, 加我的 **facebook**: liyixuan5402@hotmail.com  
-
-

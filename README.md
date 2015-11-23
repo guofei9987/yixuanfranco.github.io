@@ -8,7 +8,7 @@ Hi, 这是我从人家那个模板里 fork 过来的, 改了一些颜色. 因为
 
 anyway, 想看一下改完了的极客绿?
 
-[极客绿博客](yixuan.li) goooo ahead...
+[极客绿博客]( http://yixuan.li/) goooo ahead...
 
 
 # Naringu

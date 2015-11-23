@@ -1,7 +1,7 @@
 ---
 layout: post
 title:最小七牛使用法则 - 外部人员使用版本
-categories:Yixuan
+
 ---
 
 

@@ -5,6 +5,8 @@ categories:
 - Yixuan
 ---
 
+<embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/music/ohMyGod.mp3"></embed>
+
 ###开发文档の背景
 
 **萱小璧. ོYixuan** 14:58
@@ -64,7 +66,7 @@ Zoom.ོQuiet 15:17
   * 流水的男人铁打的『蓝盆友』.
 
 3. 资金来源
-      * 账户: bailishanshan@foxmail.com
+      * 支付宝账户: bailishanshan@foxmail.com
       * 不要捐太多钱, 我们暂时用不到.
       * 但会在 GitHub 做记录.
 

@@ -62,4 +62,4 @@ XX 是 XX 的 sex toy 好吗(性), 早几年还被富商包养(钱), 大家都�
 
 把这些核心攻击记在脑袋中吧, 下次再听到这些鬼话, 竖起你的中指, 让他们知道什么叫正义.
 
-声明: 本文采用 [CC BY-NC-ND](https://creativecommons.org/licenses/) 授权. 转载请注明: Yixuan + 文章源地址.
+声明: 本文采用 [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) 授权. 转载请注明: Yixuan + 文章源地址.

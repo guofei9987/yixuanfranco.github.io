@@ -5,7 +5,7 @@ categories:
 - Yixuan
 ---
 
-<img width="440" height="247" class="img-responsive" src="http://openmindclub.qiniudn.com/Yixuan/image/zly.jpg">
+<img width="596" height="500" class="img-responsive" src="http://openmindclub.qiniudn.com/Yixuan/image/zly1.png">
 <embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/music/qiuyanlianghangjiangshangyu.mp3"></embed>
 
 如何用最简单的方法, 在最短的时间内毁掉一个人? 我想很多人的想法是, 收集某某人的 劣迹, 然后把劣迹整理成帖子, 去 天涯、豆瓣 发直播贴什么的. 然而, 这种手段真的太 Naive, 也不足够有效率. 而且, 如果对文字把握能力不够, 很可能被路人骂. 那么, 毁掉一个人最保险的方法到底是什么呢? 答案: `进行核心攻击`.

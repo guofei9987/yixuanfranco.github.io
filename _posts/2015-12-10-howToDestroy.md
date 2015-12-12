@@ -5,6 +5,11 @@ categories:
 - Yixuan
 ---
 
+<div><img width="440" height="247" class="img-responsive" src="http://openmindclub.qiniudn.com/Yixuan/image/zly.jpg"></div>
+
+<embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/music/qiuyanlianghangjiangshangyu.mp3"></embed>
+
+
 如何用最简单的方法, 在最短的时间内毁掉一个人? 我想很多人的想法是, 收集某某人的 劣迹, 然后把劣迹整理成帖子, 去 天涯、豆瓣 发直播贴什么的. 然而, 这种手段真的太 Naive, 也不足够有效率. 而且, 如果对文字把握能力不够, 很可能被路人骂. 那么, 毁掉一个人最保险的方法到底是什么呢? 答案: `进行核心攻击`.
 
 ## 什么是核心攻击
@@ -53,3 +58,5 @@ XX 是 XX 的 sex toy 好吗(性), 早几年还被富商包养(钱), 大家都�
 那些无辜的, 在舆论下苦苦生存的人物. 他们可能很努力, 很认真的生活着. 却被那些信口开河, 不为自己言行负责的人的几句话彻底击垮, 让我们沦为帮凶. 这种操控是可恶的, 可耻的. 我们也不应在被这些可恶、可耻的人继续操控.
 
 把这些核心攻击记在脑袋中吧, 下次再听到这些鬼话, 竖起你的中指, 让他们知道什么叫正义.
+
+声明: 本文采用 [CC BY-NC-ND](https://creativecommons.org/licenses/) 授权. 转载请注明: Yixuan + 文章源地址. 

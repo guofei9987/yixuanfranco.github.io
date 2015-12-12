@@ -16,21 +16,6 @@ layout: default
   </p>
 </div>
 
-<div class="related">
-  <h3>近日的叨叨叨...</h3>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <strong>
-			<i><a href="{{ site_url }}{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-			</a></i>
-        </strong>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
 
 
 
@@ -73,10 +58,8 @@ layout: default
                     <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}{{page.url}}"></div>
                 </div>
                 <!-- 多说评论框 end -->
-            </div>
-        </div>
-    </div>
-</article>
+
+
 
 
 
@@ -133,4 +116,20 @@ var duoshuoQuery = {short_name:"Flyink"};
 
 <div class="comments">
     {% include comments.html %}
+</div>
+
+<div class="related">
+  <h3>近日的叨叨叨...</h3>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <strong>
+			<i><a href="{{ site_url }}{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+			</a></i>
+        </strong>
+      </li>
+    {% endfor %}
+  </ul>
 </div>

@@ -49,7 +49,7 @@ html {
 
 body {
   color: #999999;
-  background-color: #000;
+  background-color: #eeeeee;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -165,7 +165,7 @@ pre {
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #000;
+  background-color: #313131;
   border: 1px solid #53b45e;
 }
 pre code {
@@ -416,7 +416,7 @@ a.sidebar-nav-item:focus {
   width: 2.2rem;
   padding: .5rem .65rem;
   color: #53b45e;
-  background-color: #000;
+  background-color: #313131;
   border-radius: 4px;
   cursor: pointer;
 }
@@ -642,7 +642,7 @@ a.pagination-item:hover {
 .theme-#53b45e .sidebar,
 .theme-#53b45e .sidebar-toggle:active,
 .theme-#53b45e #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #000;
+  background-color: #313131;
 }
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,

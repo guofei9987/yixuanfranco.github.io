@@ -5,9 +5,10 @@ categories:
 - Yixuan
 ---
 
-在线教育现在势不可挡, 可是很多人刷了几节课后, 表示 『感觉不对』, 嗯哼, 这个『感觉不对』到底从何而来, 值得探讨呐.
 
 <img width="120" height="66" class="img-responsive" src="http://openmindclub.qiniudn.com/Yixuan/image/feelBad.jpg">
+
+在线教育现在势不可挡, 可是很多人刷了几节课后, 表示 『感觉不对』, 嗯哼, 这个『感觉不对』到底从何而来, 值得探讨呐.
 
 
 ## 在线教育的效果如何

@@ -26,7 +26,7 @@ categories:
 * 电影自习室.
 * [Magoosh](https://gre.magoosh.com/plans) (99 刀)
 * [Medicine: SciWrite Writing in the Sciences](https://lagunita.stanford.edu/login?next=/courses/Medicine/Sci-Write/Fall2014/progress)
-* [马村的夏天](http://www.macundexiatian)
+* [马村的夏天](http://www.macundexiatian.com)
 
 定制的私人课程有:
 

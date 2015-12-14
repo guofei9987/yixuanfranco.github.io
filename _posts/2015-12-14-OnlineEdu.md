@@ -15,18 +15,18 @@ categories:
 
 作为一个刷课狂魔, 我目前刷过课的网站有:
 
-* [Udacity](www.udacity.com)
-* [Codecademy](www.codecademy.com)
+* [Udacity](http://www.udacity.com)
+* [Codecademy](http://www.codecademy.com)
 * [在线教育搜索引擎](http://www.noodle.org/)
-* [Coursera](www.coursera.org)
-* [edx](www.edx.org)
-* [duolingo](www.duolingo.com)
+* [Coursera](http://www.coursera.org)
+* [edx](http://www.edx.org)
+* [duolingo](http://www.duolingo.com)
 * [khanacademy](http://www.khanacademy.org/)
 * [TED](http://www.ted.com/)
 * 电影自习室.
 * [Magoosh](https://gre.magoosh.com/plans) (99 刀)
 * [Medicine: SciWrite Writing in the Sciences](https://lagunita.stanford.edu/login?next=/courses/Medicine/Sci-Write/Fall2014/progress)
-* [马村的夏天](www.macundexiatian)
+* [马村的夏天](http://www.macundexiatian)
 
 定制的私人课程有:
 

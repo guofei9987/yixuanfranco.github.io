@@ -6,7 +6,7 @@ categories:
 ---
 
 
-<img width="120" height="66" class="img-responsive" src="http://openmindclub.qiniudn.com/Yixuan/image/feelBad.jpg">
+<img width="116" height="86" class="img-responsive" src="http://openmindclub.qiniudn.com/Yixuan/image/notgood.png">
 
 在线教育现在势不可挡, 可是很多人刷了几节课后, 表示 『感觉不对』, 嗯哼, 这个『感觉不对』到底从何而来, 值得探讨呐.
 

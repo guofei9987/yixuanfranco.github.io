@@ -1,11 +1,14 @@
 ---
 layout: post
-title: 在线教育的突破点
+title: 在线教育应该怎么玩
 categories:
 - Yixuan
 ---
 
 在线教育现在势不可挡, 可是很多人刷了几节课后, 表示 『感觉不对』, 嗯哼, 这个『感觉不对』到底从何而来, 值得探讨呐.
+
+<img width="140" height="100" class="img-responsive" src="http://openmindclub.qiniudn.com/Yixuan/image/feelBad.jpg">
+
 
 ## 在线教育的效果如何
 
@@ -20,13 +23,13 @@ categories:
 * [khanacademy](http://www.khanacademy.org/)
 * [TED](http://www.ted.com/)
 * 电影自习室.
-* [Magoosh](https://gre.magoosh.com/plans) 99 刀
+* [Magoosh](https://gre.magoosh.com/plans) (99 刀)
 * [Medicine: SciWrite Writing in the Sciences](https://lagunita.stanford.edu/login?next=/courses/Medicine/Sci-Write/Fall2014/progress)
 * [马村的夏天](www.macundexiatian)
 
 定制的私人课程有:
 
-* Scott Yound 的 Holistic Learning.
+* Scott Yound 的 Holistic Learning.(>100刀)
 * Benny Lewis 的Fluent in 3 Months.
 * Udemy 付费（大概目前是几百刀）:
   * The Complete Web Developer Course - Rob Percival
@@ -70,3 +73,5 @@ categories:
 降临在这个时代是我们的幸运那, 不要辜负这种幸运. 等着你来把这个世界变成更好的模样. :)
 
 再次硬广, 可以点击关注一下微信公众号→[马村的夏天](http://openmindclub.qiniudn.com/Yixuan/image/macunSDco.png).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>本作品采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a> 进行许可. 如需转载, 请标明 **Yixuan + 源地址**

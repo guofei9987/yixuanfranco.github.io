@@ -52,8 +52,8 @@ Hola, 我是 __Yixuan__. 我的人生理想啊... 远目, 那就是 __醉生梦�
     呜呼 呜呼 谁も知らない
     呜呼 呜呼 明日散る花さえも
 
-<iframe src="http://ctext.org/roulette.pl?if=gb&amp;node=3925&amp;x=300&amp;y=95" width="300" height="95" frameborder="0"><a href="http://ctext.org/text.pl?node=92193&amp;if=en">Wenyanwen roulette</a> by <a href="http://ctext.org">CTP</a>.</iframe>
+<iframe src="http://ctext.org/roulette.pl?if=gb&amp;node=3925&amp;x=300&amp;y=95" width="600" height="100" frameborder="0"><a href="http://ctext.org/text.pl?node=92193&amp;if=en">Wenyanwen roulette</a> by <a href="http://ctext.org">CTP</a>.</iframe>
 
 <a href="http://ctext.org/zh">中國哲學書電子化計劃</a>
 
-<img width="50" height="50" alt="Glider" src="{{ site.baseurl }}images/glider.png" >
+<img width="50" height="50" alt="Glider" src="{{ site.baseurl }}images/glider.png" > <i>Too fast to live.</i>

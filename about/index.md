@@ -51,22 +51,3 @@ Hola, 我是 __Yixuan__. 我的人生理想啊... 远目, 那就是 __醉生梦�
 
     呜呼 呜呼 谁も知らない
     呜呼 呜呼 明日散る花さえも
-
-
-<a href="http://ctext.org/zh">中國哲學書電子化計劃</a>
-
-<div><img width="50" height="50" alt="Glider" src="{{ site.baseurl }}images/glider.png" > <i>Too fast to live.</i></div>
-
-<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  width="900"
-  height="700">
-</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/forum/embed/?place=forum/xbyct'
-     + '&showsearch=true&showpopout=true&showtabs=false'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script>

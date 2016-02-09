@@ -151,7 +151,7 @@ code {
   padding: .25em .5em;
   font-size: 85%;
   color: #000;
-  background-color: #0CDADA;;
+  background-color: #0CDADA;
   border-radius: 3px;
 }
 pre {
@@ -179,7 +179,7 @@ pre code {
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
-  background-color: #53b45e;
+  background-color: #000;
 }
 .highlight pre {
   margin-bottom: 0;

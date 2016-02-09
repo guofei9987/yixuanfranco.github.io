@@ -176,6 +176,7 @@ pre code {
 }
 
 /* Pygments via Jekyll */
+/* This is so-called quote.*/
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;

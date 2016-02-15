@@ -115,6 +115,11 @@ categories:
 		* 我们假设你放了 yixuan.md 好了.
 		* 那么,查看这个文件的方式为: 域名/yixuan.md.
 
+## 补充
+
+* 生成目录的命令:
+  * python gen4idx.py ./ footer-7niu.html NULL
+
 ^_^ 希望你一切都搞定了.   
 
 * 如果没搞定的话, 可以 发**邮件**至 liyixuan5402@gmail.com 联系我.   

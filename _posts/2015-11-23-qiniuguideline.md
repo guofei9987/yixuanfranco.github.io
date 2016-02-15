@@ -118,7 +118,7 @@ categories:
 ## 补充
 
 * 生成目录的命令:
-  * python gen4idx.py ./ footer-7niu.html NULL
+  * `python gen4idx.py ./ footer-7niu.html NULL`
 
 ^_^ 希望你一切都搞定了.   
 

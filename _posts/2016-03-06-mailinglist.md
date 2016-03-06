@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 学习自传 (一) : 无聊的功效.
+title: 留住你所达到的文明高度.
 categories:
 - Yixuan
 ---

@@ -26,8 +26,7 @@ categories:
 * 了解 邮件列表的优势:
   1. 什么是邮件列表?
   * 什么叫优雅的异步沟通?
-  * 为什么是 Gmail? →
-    * [Gmail 生活指南](http://blog.zhgdg.org/2014-02/livin-gmail-guider/)
+  * 为什么是 Gmail? → [Gmail 生活指南](http://blog.zhgdg.org/2014-02/livin-gmail-guider/)
   * 为什么 要 Google 而不是 Baidu?
     * **这个愚蠢的问题我拒绝回答!**
 
@@ -63,7 +62,7 @@ categories:
 2. 统一工具渠道.
   * 我能看到的信息, 你一定能看到.
   * 你发送的信息, 我一定知道.
-  * 建立精准的 **[核对清单](http://yixuan.li/yixuan/2016/03/06/checklist/)** 以免出现纰漏.
+  * 建立精准的 **[核对清单](http://yixuan.li/yixuan/2016/03/05/checklist/)** 以免出现纰漏.
 
       Google 邮件列表乃奇物! 几近无空间限制! 所有的帖子永远留档! 可遥望, 有一天你的前男友都死光了! 而邮件列表仍在. 梗已抛, 望君上下而求索.
 
@@ -79,11 +78,10 @@ categories:
 
 ## 入档梗+资料增补
 
-**dama**: 嗯! 本群的囗号有了！
-为了自我完美, 共同收集多样性前任吧！
+> **dama**: 嗯! 本群的囗号有了！  
+> 为了自我完美, 共同收集多样性前任吧！
 
 
-* [复盘在活动运营中的巨大作用](http://mp.weixin.qq.com/s?__biz=MzAxNzE3Njg5NQ==&mid=208710228&idx=1&sn=62f41d31d214f47d639d3f71b21708a0&scene=1&srcid=qORTODJkghk2qOyo3Cjc&key=dffc561732c22651c8e4dfb4778f70962339e0705265fe45085c5433a3d9a5326cc1102c36e23fae3f865b1c62491391&ascene=0&uin=MjU1MTE2MzgyMA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.5+build(14F27)
 - [什么是邮件列表？](http://wiki.woodpecker.org.cn/moin/MailingList)
 * [有关邮件列表](http://wiki.pychina.org/hd/AbtMaillingList.html)
 - [电邮靠谱指南](http://blog.zhgdg.org/2014-02/email-kaopulity-guider)

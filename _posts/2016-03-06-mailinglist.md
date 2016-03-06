@@ -5,13 +5,14 @@ categories:
 - Yixuan
 ---
 ## 背景
- **大妈**: "PS: 班长每天的列表总结,是只有自个儿的草稿,没有大家的价值吐糟增补哪....不科学"
-**Yixuan**: "我感觉大家可能不太懂怎么使用邮件列表..."
-**大妈**: "嗯哼,没有关系,都是要慢慢培养的...其实,只是一瞬间的顿悟而已. 对于 开智学霸, 班长应该给出前男友范儿的直人真心的原创扫盲文了. 俺的大妈糟用词太老, 感染力不足的."
-**Yixuan**: "…前男友范. Ok, 我试一下."
+ **大妈**: "PS: 班长每天的列表总结,是只有自个儿的草稿,没有大家的价值吐糟增补哪....不科学"  
+**Yixuan**: "我感觉大家可能不太懂怎么使用邮件列表..."  
+**大妈**: "嗯哼,没有关系,都是要慢慢培养的...其实,只是一瞬间的顿悟而已. 对于 开智学霸, 班长应该给出前男友范儿的直人真心的原创扫盲文了. 俺的大妈糟用词太老, 感染力不足的."  
+**Yixuan**: "…前男友范. Ok, 我试一下."  
 
 **首问**: 为什么要使用正确的工具?
- * 工具 和 意志力 不是一个能量级.
+
+* 工具 和 意志力 不是一个能量级.
  * "君子无他, 善假于物."
  * 杠杆原理: "给我一个支点，我就能撬起整个地球!"
     * 这句话表示了什么?
@@ -20,6 +21,7 @@ categories:
     * You could do almost everything!
 
 **读前的梗提示**:
+
 * 了解 邮件列表的优势:
   1. 什么是邮件列表?
   * 什么叫优雅的异步沟通?
@@ -28,13 +30,12 @@ categories:
   * 为什么 要 Google 而不是 Baidu?
     * **这个愚蠢的问题我拒绝回答!**
 
-#岩钉的重要性
-
+# 岩钉的重要性
 爬山或攀岩时, 人们会在坚固的岩石中, 钉下尽可能多的岩钉.
 1. 这样一来, 一旦发生危险, 人只会掉到前一个岩钉的位置, 而不会坠入悬崖, 万劫不复.
 2. 岩钉与岩钉之间的距离越短, 攀岩的危险系数就越低.
 
-#雁过留声
+# 雁过留声
 1. 所有探索下来的经验, 都是重要的.
 2. 所有重要的东西, 都是应该传承的.
     那么, 一世育人以口, 百世育人以书. 所以,
@@ -45,27 +46,28 @@ categories:
     经验很重要→ 重要的东西需要传承 → 传承就是 优雅的异步升级 → 最好的办法就是 把知道的东西写成文档.
 
 #优雅的异步升级:
-
 1. 核心理念:
   * 传递方向:
-    * 我知道 → 你也知道.
-    * 你知道 → 我也知道.
-    * 你+我知道 → 大家知道.
+      * 我知道 → 你也知道.
+      * 你知道 → 我也知道.
+      * 你+我知道 → 大家知道.
   * 工具: 所有的经验都应该云端化. → Gmail Mailing List.
   * 态度 + 顶级的传承文档:
-    * 写下自己的经验, 让后人 **无话可写**.
-    * 于是 **教**, 则必须做到, 言必清, 言必有物, 言必实事求是.
-    * **问**, 则:
-      * [提问的智慧](http://wiki.woodpecker.org.cn/moin/AskForHelp)
-        * [提问的智慧-完整版](http://doc.zengrong.net/smart-questions/cn.html)
+      * 写下自己的经验, 让后人 **无话可写**.
+      * 于是 **教**, 则必须做到, 言必清, 言必有物, 言必实事求是.
+      * **问**, 则:
+        * [提问的智慧](http://wiki.woodpecker.org.cn/moin/AskForHelp)
+          * [提问的智慧-完整版](http://doc.zengrong.net/smart-questions/cn.html)
 
 2. 统一工具渠道.
   * 我能看到的信息, 你一定能看到.
   * 你发送的信息, 我一定知道.
   * 建立精准的 **[核对清单](http://yixuan.li/yixuan/2016/03/06/checklist/)** 以免出现纰漏.
+
     Google 邮件列表乃奇物! 几近无空间限制! 所有的帖子永远留档! 可遥望, 有一天你的前男友都死光了! 而邮件列表仍在. 梗已抛, 望君上下而求索.
 
 ##为什么要把经验写下来.
+
 1.  一旦你已经学会使用某工具, 就会陷入 "知识的诅咒".
     > **知识的诅咒**: 他们提到的根本问题是:在某个话题上知识丰富的人有时会认为,其他人也具备同样的知识
 
@@ -75,13 +77,14 @@ categories:
 
 
 ##入档梗+资料增补
-**dama**:  (ↂ⃙⃙⃚⃛_ↂ⃙⃙⃚⃛₎嗯! 本群的囗号有了！
+
+**dama**: 嗯! 本群的囗号有了！
 为了自我完美, 共同收集多样性前任吧！
 
 
-- Link: [干货|复盘在活动运营中的巨大作用](http://mp.weixin.qq.com/s?__biz=MzAxNzE3Njg5NQ==&mid=208710228&idx=1&sn=62f41d31d214f47d639d3f71b21708a0&scene=1&srcid=qORTODJkghk2qOyo3Cjc&key=dffc561732c22651c8e4dfb4778f70962339e0705265fe45085c5433a3d9a5326cc1102c36e23fae3f865b1c62491391&ascene=0&uin=MjU1MTE2MzgyMA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.5+build(14F27)
+* Link: [复盘在活动运营中的巨大作用](http://mp.weixin.qq.com/s?__biz=MzAxNzE3Njg5NQ==&mid=208710228&idx=1&sn=62f41d31d214f47d639d3f71b21708a0&scene=1&srcid=qORTODJkghk2qOyo3Cjc&key=dffc561732c22651c8e4dfb4778f70962339e0705265fe45085c5433a3d9a5326cc1102c36e23fae3f865b1c62491391&ascene=0&uin=MjU1MTE2MzgyMA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.5+build(14F27)
 - [什么是邮件列表？](http://wiki.woodpecker.org.cn/moin/MailingList)
-- [有关邮件列表 | PyChina.org Static Wiki](http://wiki.pychina.org/hd/AbtMaillingList.html)
+* [有关邮件列表](http://wiki.pychina.org/hd/AbtMaillingList.html)
 - [电邮靠谱指南](http://blog.zhgdg.org/2014-02/email-kaopulity-guider)
 - [Gmail 生活指南](http://blog.zhgdg.org/2014-02/livin-gmail-guider)    
 - [为什么不应该使用QQ进行技术交流](http://blog.zhgdg.org/2013-06/anti-qq-as-tech-communication)

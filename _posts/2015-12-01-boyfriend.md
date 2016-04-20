@@ -8,7 +8,7 @@ categories:
 <embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/music/ohMyGod.mp3"></embed>
 
 ###开发文档の背景
-
+     
 **萱小璧. ོYixuan** 14:58
 我有一个梦想：智能家居端茶倒水扫地做饭净化空气到点喂食儿
 

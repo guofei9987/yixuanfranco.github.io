@@ -2,7 +2,7 @@
 layout: post
 title: 我一定会在未来赴约
 categories:
-- Yixuan
+- 天南地北瞎叨叨
 ---
 
 <embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/music/ShortTripHome.mp3"></embed>

@@ -2,7 +2,7 @@
 layout: post
 title: 世间安得两全法
 categories:
-- Yixuan
+- 天南地北瞎叨叨
 ---
 
 <embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/%E4%B9%B1%E4%B8%96%E4%BF%B1%E7%81%AD.mp3"></embed>

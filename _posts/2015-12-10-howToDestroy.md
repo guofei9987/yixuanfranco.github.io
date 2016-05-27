@@ -2,7 +2,7 @@
 layout: post
 title: 如何毁掉一个人
 categories:
-- Yixuan
+- 天南地北瞎叨叨
 ---
 
 <img width="70" height="60" class="img-responsive" src="http://openmindclub.qiniudn.com/Yixuan/image/zly1.png">

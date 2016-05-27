@@ -2,7 +2,7 @@
 layout: post
 title: 可以拯救宇宙的蔬菜沙拉!
 categories:
-- Yixuan
+- 好吃好喝好玩
 ---
 
 <embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/music/bagbag.mp3"></embed>

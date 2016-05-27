@@ -2,7 +2,7 @@
 layout: post
 title: 愚蠢和叨叨总是成正比的
 categories: 
-- Yixuan
+- 天南地北瞎叨叨
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: 蓝盆友的开发文档
 categories:
-- Yixuan
+- 黑客领域
 ---
 
 <embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/music/ohMyGod.mp3"></embed>

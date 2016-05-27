@@ -18,12 +18,3 @@ description: "An archive of posts sorted by categories."
 <li><a href="http://yixuan.li/yixuan/2016/03/06/mailinglist/"/>留住你所达到的文明高度.</a></li>
 </ul>
 
-
-{% for category in site.categories %}
-<h2>{{ category | first }}</h2>
-<ul class="arc-list">
-    {% for post in category.last %}
-        <li>{{ post.date | date:"%d/%m/%Y"}}  <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
-{% endfor %}

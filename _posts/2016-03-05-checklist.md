@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 核对清单.
-categories:
-- Yixuan
 ---
 
 > Created by Yixuan on Sept.5, 2015

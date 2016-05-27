@@ -19,7 +19,7 @@ description: "An archive of posts sorted by categories."
 </ul>
 
 
-{% for category in test %}
+{% for category in site.categories.test %}
 <h2>{{ category | first }}</h2>
 </span>{{ category | last | size }}</span> 
 <ul class="arc-list">

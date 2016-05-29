@@ -5,7 +5,9 @@ categories:
 - 黑客领域
 ---
 
-<embed autostart="true" hidden="false" loop=-1 src="http://openmindclub.qiniudn.com/Yixuan/music/ohMyGod.mp3"></embed>
+{% raw %}
+<iframe frameborder="20" border="20" marginwidth="10" marginheight="0" width="500" height="80" src="http://openmindclub.qiniudn.com/Yixuan/music/ohMyGod.mp3"></iframe>
+{% endraw %}
 
 ###开发文档の背景
      

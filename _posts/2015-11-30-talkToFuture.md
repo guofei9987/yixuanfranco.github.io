@@ -2,7 +2,7 @@
 layout: post
 title: 我一定会在未来赴约
 categories:
-- 天南地北瞎叨叨
+- trivial
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: 世间安得两全法
 categories:
-- 天南地北瞎叨叨
+- trivial
 ---
 
 

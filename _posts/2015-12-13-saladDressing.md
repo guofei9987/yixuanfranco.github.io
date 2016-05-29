@@ -2,7 +2,7 @@
 layout: post
 title: 可以拯救宇宙的蔬菜沙拉!
 categories:
-- 好吃好喝好玩
+- mortalBeing
 ---
 
 {% raw %}

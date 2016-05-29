@@ -2,7 +2,7 @@
 layout: post
 title: 蓝盆友的开发文档
 categories:
-- 黑客领域
+- Geek
 ---
 
 {% raw %}

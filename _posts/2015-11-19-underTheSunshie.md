@@ -2,7 +2,7 @@
 layout: post
 title: 阳光下杀人.
 categories:
-- 天南地北瞎叨叨
+- trivial
 ---
 
 

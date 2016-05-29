@@ -2,7 +2,7 @@
 layout: post
 title: 在线教育应该怎么玩
 categories:
-- 天南地北瞎叨叨
+- trivial
 ---
 
 

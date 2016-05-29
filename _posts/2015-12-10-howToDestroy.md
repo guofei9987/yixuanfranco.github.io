@@ -7,7 +7,7 @@ categories:
 
 <img width="70" height="60" class="img-responsive" src="http://openmindclub.qiniudn.com/Yixuan/image/zly1.png">
 {% raw %}
-<iframe frameborder="20" border="20" marginwidth="10" marginheight="0" width="500" height="80" src="http://openmindclub.qiniudn.com/Yixuan/music/qiuyanlianghangjiangshangyu.mp3"></iframe>
+<iframe frameborder="20" border="20" marginwidth="10" marginheight="0" width="298" height="80" src="http://openmindclub.qiniudn.com/Yixuan/music/qiuyanlianghangjiangshangyu.mp3"></iframe>
 {% endraw %}
 
 

@@ -6,7 +6,7 @@ categories:
 ---
 
 {% raw %}
-<iframe frameborder="20" border="20" marginwidth="10" marginheight="0" width="500" height="80" src="http://openmindclub.qiniudn.com/Yixuan/music/ohMyGod.mp3"></iframe>
+<iframe frameborder="20" border="20" marginwidth="10" marginheight="0" width="298" height="80" src="http://openmindclub.qiniudn.com/Yixuan/music/ohMyGod.mp3"></iframe>
 {% endraw %}
 
 ###开发文档の背景

@@ -7,7 +7,7 @@ categories:
 
 
 {% raw %}
-<iframe frameborder="20" border="20" marginwidth="10" marginheight="0" width="500" height="80" src="http://openmindclub.qiniudn.com/Yixuan/music/ShortTripHome.mp3"></iframe>
+<iframe frameborder="20" border="20" marginwidth="10" marginheight="0" width="298" height="80" src="http://openmindclub.qiniudn.com/Yixuan/music/ShortTripHome.mp3"></iframe>
 {% endraw %}
 
 如果你没忘记, 此刻的我和过去的你曾经有过一段交流. 虽然那时候, 现在的我在你的憧憬里. 不过好在, 很庆幸, 你憧憬里的一切, 我现在都已经拥有. 我享受, 并且感激你为此时此刻所作出的一切努力.

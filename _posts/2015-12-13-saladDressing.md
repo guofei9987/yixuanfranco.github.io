@@ -6,7 +6,7 @@ categories:
 ---
 
 {% raw %}
-<iframe frameborder="20" border="20" marginwidth="10" marginheight="0" width="500" height="80" src="http://openmindclub.qiniudn.com/Yixuan/music/bagbag.mp3"></iframe>
+<iframe frameborder="20" border="20" marginwidth="10" marginheight="0" width="298" height="80" src="http://openmindclub.qiniudn.com/Yixuan/music/bagbag.mp3"></iframe>
 {% endraw %}
 
 嗯哼, 开写之前我先声明一下版权, 这份秘笈是 Jesse 的妈妈 **Nancy** 阿姨教给我的. 我经过一些改良, 适应了中国人的口味, 才拿来用的.

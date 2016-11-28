@@ -292,12 +292,16 @@
 			</dict>
 			<key>2016-11-26-jsonUnderPy.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>502017538.81273597</real>
 				<key>lastModification</key>
-				<real>501824476.08944201</real>
+				<real>502017538.81273597</real>
 				<key>version</key>
 				<dict>
 					<key>9cfad7b81ef5c07f55e18034c15e207df697cb49a72011bfd892f726eb729bb2</key>
-					<integer>23</integer>
+					<integer>33</integer>
 				</dict>
 			</dict>
 			<key>2016-11-26-religion.md</key>
@@ -312,6 +316,20 @@
 				<dict>
 					<key>9cfad7b81ef5c07f55e18034c15e207df697cb49a72011bfd892f726eb729bb2</key>
 					<integer>19</integer>
+				</dict>
+			</dict>
+			<key>2016-11-28-free.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>502017557.60797697</real>
+				<key>lastModification</key>
+				<real>502017557.60797697</real>
+				<key>version</key>
+				<dict>
+					<key>9cfad7b81ef5c07f55e18034c15e207df697cb49a72011bfd892f726eb729bb2</key>
+					<integer>34</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -408,6 +426,9 @@
 		<array>
 			<string>2016-11-26-religion.md</string>
 		</array>
+		<array>
+			<string>2016-11-28-free.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -416,7 +437,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>9cfad7b81ef5c07f55e18034c15e207df697cb49a72011bfd892f726eb729bb2</key>
-			<integer>24</integer>
+			<integer>34</integer>
 		</dict>
 	</dict>
 </dict>

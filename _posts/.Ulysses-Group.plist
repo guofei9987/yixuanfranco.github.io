@@ -198,12 +198,16 @@
 			</dict>
 			<key>2016-02-09-stuDiary1.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>501824351.837062</real>
 				<key>lastModification</key>
-				<real>501496250.13561398</real>
+				<real>501824351.837062</real>
 				<key>version</key>
 				<dict>
 					<key>9cfad7b81ef5c07f55e18034c15e207df697cb49a72011bfd892f726eb729bb2</key>
-					<integer>2</integer>
+					<integer>20</integer>
 				</dict>
 			</dict>
 			<key>2016-03-05-checklist.md</key>
@@ -286,6 +290,30 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
+			<key>2016-11-26-jsonUnderPy.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>501824476.08944201</real>
+				<key>version</key>
+				<dict>
+					<key>9cfad7b81ef5c07f55e18034c15e207df697cb49a72011bfd892f726eb729bb2</key>
+					<integer>23</integer>
+				</dict>
+			</dict>
+			<key>2016-11-26-religion.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>501820182.83344102</real>
+				<key>lastModification</key>
+				<real>501820182.83344102</real>
+				<key>version</key>
+				<dict>
+					<key>9cfad7b81ef5c07f55e18034c15e207df697cb49a72011bfd892f726eb729bb2</key>
+					<integer>19</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -295,6 +323,9 @@
 		</array>
 		<array>
 			<string>2016-1-31-feeling.md</string>
+		</array>
+		<array>
+			<string>2016-11-26-jsonUnderPy.md</string>
 		</array>
 		<array>
 			<string>2016-04-22-dhamma.md</string>
@@ -374,6 +405,9 @@
 		<array>
 			<string>2016-11-24-ZSH.md</string>
 		</array>
+		<array>
+			<string>2016-11-26-religion.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -382,7 +416,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>9cfad7b81ef5c07f55e18034c15e207df697cb49a72011bfd892f726eb729bb2</key>
-			<integer>10</integer>
+			<integer>24</integer>
 		</dict>
 	</dict>
 </dict>

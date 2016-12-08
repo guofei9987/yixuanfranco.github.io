@@ -30,24 +30,23 @@ categories:
 	* 按照教程说, 把下面的东西 粘贴进去, 改成自己的:
 
 版本一:
-
-{  
-    "access\_key": "Please apply your access key here",  
-    "secret\_key": "Dont send your secret key to anyone",  
-    "bucket": "Bucket name on qiniu resource storage",  
-    "sync\_dir": "Local directory to upload",  
-    "async\_ops": "fop1;fop2;fopN",  
-    "debug\_level": 1  
-}  
+	'{
+	    "access\_key": "Please apply your access key here",
+	    "secret\_key": "Dont send your secret key to anyone",
+	    "bucket": "Bucket name on qiniu resource storage",
+	    "sync\_dir": "Local directory to upload",
+	    "async\_ops": "fop1;fop2;fopN",
+	    "debug\_level": 1
+	}
 
 
 [版本2:][4]
 
-{  
-    "src":          "/home/your/sync\_dir",  
-    "dest":          "qiniu:access\_key=<AccessKey>&secret\_key=<SecretKey>&bucket=<Bucket>&key\_prefix=<KeyPrefix>&threshold=<Threshold>",  
-    "debug\_level":  1  
-}  
+	'{
+	    "src":          "/home/your/sync\_dir",
+	    "dest":          "qiniu:access\_key=<AccessKey>&secret\_key=<SecretKey>&bucket=<Bucket>&key\_prefix=<KeyPrefix>&threshold=<Threshold>",
+	    "debug\_level":  1
+	}
 
 
 
@@ -132,8 +131,8 @@ categories:
  1. 本地快照:
  `./qshell dircache /Users/mac/Desktop/TheSummerofMQT/Qiniu ao.md `
 2. 同步七牛:
-`./qshell qupload 10 conf.json
-```
+\`./qshell qupload 10 conf.json
+\`\`\`
 
 [1]:	https://github.com/OpenMindClub/2.OMOOC.py/issues/70
 [2]:	http://blog.zhgdg.org/2013-08/usage7niu/

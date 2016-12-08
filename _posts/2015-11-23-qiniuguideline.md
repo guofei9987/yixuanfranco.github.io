@@ -30,6 +30,7 @@ categories:
 	* 按照教程说, 把下面的东西 粘贴进去, 改成自己的:
 
 版本一:
+
 	'{
 	    "access\_key": "Please apply your access key here",
 	    "secret\_key": "Dont send your secret key to anyone",

@@ -44,8 +44,8 @@ categories:
 [版本2:][4]
 
 	'{
-	    "src":          "/home/your/sync\_dir",
-	    "dest":          "qiniu:access\_key=<AccessKey>&secret\_key=<SecretKey>&bucket=<Bucket>&key\_prefix=<KeyPrefix>&threshold=<Threshold>",
+	    "src": "/home/your/sync\_dir",
+	    "dest": "qiniu:access\_key=<AccessKey>&secret\_key=<SecretKey>&bucket=<Bucket>&key\_prefix=<KeyPrefix>&threshold=<Threshold>",
 	    "debug\_level":  1
 	}
 

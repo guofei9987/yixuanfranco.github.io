@@ -13,15 +13,15 @@ permalink:           pretty
 title:               Guofei
 tagline:             '迷之简介.'
 description:         '尘世间一只迷途小书虫.'
-url:                 http://yixuan.li
+url:                 http://www.guofei.site
 baseurl:             /
 paginate:            7
 
 # About/contact
 author:
-  name:              Yixuan Li
-  url:               https://www.macundexiatian.com
-  email:             liyixuan5402@gmail.com
+  name:              Guofei
+  url:               https://www.guofei.com
+  email:             guofei@foxmail.com
 
 # Custom vers
 version:             3.0
@@ -32,6 +32,6 @@ twitter:			https://twitter.com/Yixuan5402
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
-  creator:			Yixuan Li
+  creator:			Guofei
   codename:			Geek-green
   link:         https://github.com/guofei9987

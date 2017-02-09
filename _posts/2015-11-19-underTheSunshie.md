@@ -2,7 +2,7 @@
 layout: post
 title: 阳光下杀人.
 categories:
-- trivial
+- trivial1
 ---
 
 

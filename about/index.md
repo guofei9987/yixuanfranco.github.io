@@ -21,14 +21,14 @@ Hola, 我是 __Guofei__. 我的人生理想啊... 远目, 那就是 __永！生�
 1. [GitHub][1]
 2. [FaceBook][2]
 3. [LinkedIn][3]
-
+4. [读书笔记][4]
 
 
 
 
 ## 嗷!
 
-如果想跟俺聊聊, __[欢迎来信][4]__.
+如果想跟俺聊聊, __[欢迎来信][9]__.
 
 
 	呜呼 呜呼 谁も知らない
@@ -37,4 +37,5 @@ Hola, 我是 __Guofei__. 我的人生理想啊... 远目, 那就是 __永！生�
 [1]:  https://github.com/guofei9987
 [2]:	https://www.facebook.com/guofei9987
 [3]:	https://www.linkedin.com/in/guofei9987
-[4]:	mailto:guofei@foxmail.com
+[4]:  https://github.com/guofei9987/MyKnowledge
+[9]:	mailto:guofei@foxmail.com

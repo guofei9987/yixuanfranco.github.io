@@ -10,8 +10,8 @@ permalink:           pretty
 
 
 # Setup
-title:               Yixuan
-tagline:             '厨娘界元老, 书呆界新人.'
+title:               Guofei
+tagline:             '迷之简介.'
 description:         '尘世间一只迷途小书虫.'
 url:                 http://yixuan.li
 baseurl:             /
@@ -27,11 +27,11 @@ author:
 version:             3.0
 
 # Social Media
-github:				https://github.com/YixuanFranco
+github:				https://github.com/guofei9987
 twitter:			https://twitter.com/Yixuan5402
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
   creator:			Yixuan Li
   codename:			Geek-green
-  link:         https://github.com/YixuanFranco
+  link:         https://github.com/guofei9987

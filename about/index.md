@@ -4,8 +4,8 @@ author: Guofei
 layout: page
 ---
 
+  <img width="300" height="400" alt="A photo of Yixuan" src="http://i.imgur.com/Sus27p8.jpg">
 
-![2016-04-25 172917](http://i.imgur.com/Sus27p8.jpg)
 Hola, 我是 __Guofei__. 我的人生理想啊... 远目, 那就是 __永！生！啦！__ 咳咳，开个玩笑. 其实没什么远大理想，一直是靠着兴趣活在当下. 嘿嘿. 要说疯狂地想法，那就是 __在智能算法某个细分领域，达到世界第一__ (⊙﹏⊙)b.  副业就是看看书、编编程什么的. 人生核心原则: __用更懒的方式过更好的人生__
 
 ## 斜杠青年…
@@ -60,5 +60,5 @@ Hola, 我是 __Guofei__. 我的人生理想啊... 远目, 那就是 __永！生�
 [3]:	http://weibo.com/liyixuan5402
 [4]:	https://cn.linkedin.com/in/liyixuan5402
 [5]:	http://www.douban.com/people/woaixiaoyao5402/
-[6]:	https://github.com/YixuanFranco
+[6]:	https://github.com/guofei9987
 [7]:	mailto:guofei@foxmail.com

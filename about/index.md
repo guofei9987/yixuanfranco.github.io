@@ -4,16 +4,16 @@ author: Guofei
 layout: page
 ---
 
-  <img width="300" height="400" alt="A photo of Yixuan" src="http://i.imgur.com/Sus27p8.jpg">
+  <img width="300" height="400" alt="A photo of Guofei" src="http://i.imgur.com/Sus27p8.jpg">
 
 Hola, 我是 __Guofei__. 我的人生理想啊... 远目, 那就是 __永！生！啦！__ 咳咳，开个玩笑. 其实没什么远大理想，一直是扶着兴趣君活在当下. 嘿嘿. 要说疯狂地想法，那就是想 __在智能算法某个细分领域，达到世界第一(⊙﹏⊙)b__ .  副业就是看看书、刷刷数学题什么的. __世界辣么有趣,一起来阅读吧__
 
 ## 斜杠青年…
 
-1. 某国企里研究算法/(ㄒoㄒ)/~~.
+1. 某国企里研究算法o((⊙﹏⊙))o.
 2. 跑步爱好者.
 3. Coursera 修课小狂魔.
-4. 证书收集狂.
+4. 证书收集狂.[11]
 5. 刷书小能手;
 
 ## 然后就是一些我的链接...

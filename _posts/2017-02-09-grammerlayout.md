@@ -17,6 +17,10 @@ categories:
 - list1
 - list2
 
+下面是插入照片并预设照片大小
+  <img width="300" height="400" alt="A photo of Guofei" src="http://i.imgur.com/Sus27p8.jpg">
+
+
 下面是插入音乐的方法：
 
 {% raw %}

@@ -2,7 +2,7 @@
 layout: post
 title: 【随机模拟小试验】有偏分布下的均值、中位数、众数之间的关系.
 categories:
-- mathematics
+- Mathematics
 ---
 
 从《统计数字会撒谎》想到的

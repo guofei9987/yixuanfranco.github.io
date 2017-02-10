@@ -1,3 +1,7 @@
+展示一下自己
+
+
+
 # 考过得证书
 - 工信部数据分析师（高级）*License 160050940300397*
 
@@ -42,3 +46,5 @@ http://chaxun.neea.edu.cn/examcenter/query.cn?op=doQueryResults&pram=certi)
 http://article.sciencepublishinggroup.com/html/10.11648.j.jfa.20150306.12.html#paper-keywords)
 *Journal of Finance and Accounting
 Volume 3, Issue 6, November 2015, Pages: 177-183*
+
+- *中外企业家* 上发表文章[如何提高小额贷款公司的风险控制能力](http://www.cnki.net/KCMS/detail/detail.aspx?QueryID=6&CurRec=1&recid=&filename=ZWQY201430051&dbname=CJFDLAST2015&dbcode=CJFQ&pr=&urlid=&yx=&uid=WEEvREcwSlJHSldSdnQ1YWloVytWUUFXNXMwSnYzeDdLUFNXMnU1ZXlJa1pqTW5la093SEwwTlNFV0dNeXFQRE13PT0=$9A4hF_YAuvQ5obgVAq)

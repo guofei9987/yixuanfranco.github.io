@@ -17,25 +17,19 @@ http://chaxun.neea.edu.cn/examcenter/query.cn?op=doQueryResults&pram=certi)
 
 
 <table >
-<tr><td>  <img width="238" height="150"  src="http://i.imgur.com/CB6npA4.png"></td><td>  <img width="238" height="150"  src="http://i.imgur.com/CB6npA4.png"></td></tr>
+<tr><td>  <img width="238" height="150"  src="http://i.imgur.com/CB6npA4.png"></td><td>  <img width="238" height="150"  src="http://i.imgur.com/eoyBrKN.png"></td></tr>
 
- <tr><td>  <img width="238" height="150"  src="http://i.imgur.com/CB6npA4.png"></td><td>  <img width="238" height="150"  src="http://i.imgur.com/CB6npA4.png"></td></tr>
+ <tr><td>  <img width="238" height="150"  src="http://i.imgur.com/cFX0Vdv.png"></td><td>  <img width="238" height="150"  src="http://i.imgur.com/ATUQij2.png"></td></tr>
 
-<tr><td>  <img width="238" height="150"  src="http://i.imgur.com/CB6npA4.png"></td></tr>
+<tr><td>  <img width="238" height="150"  src="http://i.imgur.com/Zv7BOj5.png"></td></tr>
 
 </table>
-  <img width="238" height="300"  src="http://i.imgur.com/CB6npA4.png">
-
-![证券从业基础](http://i.imgur.com/CB6npA4.png)
-![发行与承销](http://i.imgur.com/cFX0Vdv.png)
-![证券交易](http://i.imgur.com/eoyBrKN.png)
-![证券投资分析](http://i.imgur.com/Zv7BOj5.png)
-![证券投资基金](http://i.imgur.com/ATUQij2.png)
 
 - 期货从业
-![期货从业](http://i.imgur.com/kTW0n2v.png)
-![期货投资分析](http://i.imgur.com/bIX81uc.png)
-![期货从业](http://i.imgur.com/JUXPb9G.jpg)
+
+<table >
+<tr><td>  <img width="238" height="150"  src="http://i.imgur.com/kTW0n2v.png"></td><td>  <img width="238" height="150"  src="http://i.imgur.com/bIX81uc.png"></td></tr>
+</table>
 
 # 学术能力
 

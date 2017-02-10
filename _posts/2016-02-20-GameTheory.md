@@ -2,7 +2,7 @@
 layout: post
 title: 【随机模拟试验】枪手博弈问题（一）.
 categories:
-- Mathematics
+- Mathematics, the language of God
 ---
 
 本篇是本人的原创，如有逻辑、算法等错误，请及时联系本人。

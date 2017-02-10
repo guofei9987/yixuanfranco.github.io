@@ -5,6 +5,10 @@ categories:
 - Sociology, crown of human thinking
 ---
 
+Author:Guofei
+
+~本文是本人原创内容，如有逻辑、算法或其它错误，请联系[本人邮箱](mailto:guofei@foxmail.com)~
+
 - 进化论三要素：
     1. 变异
     2. 后果

@@ -5,11 +5,11 @@ categories:
 - Mathematics, the language of God
 ---
 
-本篇是本人的原创，如有逻辑、算法等错误，请及时联系本人。
 
 Author:Guofei
 
 ~本文是本人原创内容，如有逻辑、算法或其它错误，请联系[本人邮箱](mailto:guofei@foxmail.com)~
+
 
 枪手博弈问题是博弈论中的一个著名的案例，然而大多数分析落脚在单轮博弈上。这里对多轮枪手博弈问题进行随机模拟试验。
 

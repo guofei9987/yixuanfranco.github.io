@@ -17,11 +17,11 @@ http://chaxun.neea.edu.cn/examcenter/query.cn?op=doQueryResults&pram=certi)
 
 
 <table >
-<tr><td>  <img width="476" height="300"  src="http://i.imgur.com/CB6npA4.png"></td><td>  <img width="476" height="300"  src="http://i.imgur.com/CB6npA4.png"></td><td>  <img width="476" height="300"  src="http://i.imgur.com/CB6npA4.png"></td></tr>
+<tr><td>  <img width="238" height="300"  src="http://i.imgur.com/CB6npA4.png"></td><td>  <img width="238" height="300"  src="http://i.imgur.com/CB6npA4.png"></td><td>  <img width="238" height="300"  src="http://i.imgur.com/CB6npA4.png"></td></tr>
 
- <tr><td>  <img width="476" height="300"  src="http://i.imgur.com/CB6npA4.png"></td><td>  <img width="476" height="300"  src="http://i.imgur.com/CB6npA4.png"></td><td></td></tr>
+ <tr><td>  <img width="238" height="300"  src="http://i.imgur.com/CB6npA4.png"></td><td>  <img width="238" height="300"  src="http://i.imgur.com/CB6npA4.png"></td><td></td></tr>
 </table>
-  <img width="476" height="300"  src="http://i.imgur.com/CB6npA4.png">
+  <img width="238" height="300"  src="http://i.imgur.com/CB6npA4.png">
 
 ![证券从业基础](http://i.imgur.com/CB6npA4.png)
 ![发行与承销](http://i.imgur.com/cFX0Vdv.png)

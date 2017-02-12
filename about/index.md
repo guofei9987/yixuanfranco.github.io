@@ -22,8 +22,8 @@ Hola, 我是 __Guofei__. 我的人生理想啊... 远目, 那就是 __永！生�
 1. [GitHub][1]
 2. [FaceBook][2]
 3. [LinkedIn][3]
-4. 微信
-<img width="300" height="330" alt="QR" src="http://i.imgur.com/H6Ap5Ir.png">
+4. 微信（扫描二维码）
+<img width="200" height="220" alt="QR" src="http://i.imgur.com/DrY2XQR.png">
 
 
 

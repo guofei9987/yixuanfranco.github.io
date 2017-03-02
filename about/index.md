@@ -13,6 +13,7 @@ Hola, 我是 __Guofei__. 我的人生理想啊... 远目, 那就是 __永！生�
 1. 某国企里研究算法o((⊙﹏⊙))o.
 2. 跑步爱好者.
 3. Coursera 修课小狂魔.
+4. reviewer of *Journal of Finance and Accounting* , Science Publishing Group.(某学术类外刊的审稿员)
 4. 证书收集狂[点击看我的藏品][11].
 5. 刷书小能手[点击看我的书单][12]或者[点击看读书笔记][4];
 6. 坐标：北京.

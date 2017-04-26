@@ -2,7 +2,7 @@
 layout: post
 title: blog语法示例.
 categories:
-- Algorithm, extension of our brain
+- Code, extension of our brain
 ---
 
 用来记录blog的语法
